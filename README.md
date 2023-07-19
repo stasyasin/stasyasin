@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Stasyasin</h1>
-<h3 align="center">Principal Full-stack Engineer / Engineering Manager</h3>
+<h1 align="left">Hi 👋, I'm Stasyasin</h1>
+<h3 align="left">Principal Full-stack Engineer / Engineering Manager</h3>
 
-- 📫 How to reach me **stasyasin@gmail.com**
+📫 How to reach me **stasyasin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
