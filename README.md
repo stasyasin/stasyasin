@@ -32,12 +32,12 @@
 
 
 ## Languages and Tools:
-<table style="border: 0;">
-  <tr style="border: 0;">
-    <td style="border: 0; width: 35%;">
+<table style="border-collapse: collapse;">
+  <tr style="border: none; height:360px;">
+    <td style="border: none; width: 35%;">
         <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="programmer">
     </td>
-    <td style="border: 0; width: 65%; display: flex; flex-wrap: wrap; justify-content: flex-start;">
+    <td style="border: none; width: 65%; display: flex; flex-wrap: wrap; justify-content: flex-start;">
       <a style="margin: 10px;" href="https://angular.io" target="_blank" rel="noreferrer">
         <img style="margin: 10px;" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40">
       </a>
