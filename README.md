@@ -33,12 +33,11 @@
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display: flex;align-items: center;">
-  <div>
-    <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="programmer"
-         width="480" height="360">
+<div style="display: flex; align-items: center;">
+  <div style="width: 35%;">
+    <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="programmer">
   </div>
-  <div style="width: 480px;display: flex;flex-wrap: wrap;">
+  <div style="width: 40%; display: flex; flex-wrap: wrap; justify-content: flex-start;">
     <div style="margin: 10px;">
       <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40">
@@ -280,4 +279,3 @@
   <img align="left"
        src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
        height="50" width="210" alt="stasyasin"/></a></p><br><br>
-
